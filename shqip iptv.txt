@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1,TOP CHANNEL
+http://185.226.88.6:11026/live/30zaR9GwlgzT/qhZ8AK5OkX/224.ts
+#EXTINF:-1,KLAN
+http://51.178.185.49:9095/live/klanhdott/playlist.m3u8
+#EXTINF:-1,VIZION PLUS
+https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
+#EXTINF:-1,BB VIP ALBANIA 1
+#EXTINF:-1,BB VIP ALBANIA 2
+#EXTINF:-1,BB VIP KOSOVA 1
+http://albamax.xyz/live/4ktezz/x83mPnfDfN/119279.ts
+#EXTINF:-1,BB VIP KOSOVA 2
+http://albamax.xyz/live/4ktezz/x83mPnfDfN/119280.ts
+#EXTINF:-1,A2 CNN
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/chunklist_w1080241246_b2128000_slalb.m3u8
+#EXTINF:-1,ABC
+http://51.178.185.49:9095/live/abcnewsott/playlist.m3u8
+#EXTINF:-1,CNA
+http://51.178.185.49:9095/live/cnaott/playlist.m3u8
+#EXTINF:-1,EURONEWS ALBANIA
+http://51.178.185.49:9095/live/euronewsott/playlist.m3u8
+#EXTINF:-1,FAX NEWS
+http://51.178.185.49:9095/live/faxnewsott/playlist.m3u8
+#EXTINF:-1,KANALI 7
+#EXTINF:-1,NEWS 24
+http://51.178.185.49:9095/live/news24ott/playlist.m3u8
+#EXTINF:-1,NTV
+#EXTINF:-1,ORA
+http://51.178.185.49:9095/live/rtvoraott/playlist.m3u8
+#EXTINF:-1,ORA NEWS
+http://51.178.185.49:9095/live/rtvoranewsott/playlist.m3u8
+#EXTINF:-1,PANORAMA
+http://198.244.188.94/panorama/livestream/chunks.m3u8?nimblesessionid=115873738
+#EXTINF:-1,REPORT TV
+http://51.178.185.49:9095/live/reportott/playlist.m3u8
+#EXTINF:-1,RTSH 24
+#EXTINF:-1,SCAN
+http://51.178.185.49:9095/live/scanott/playlist.m3u8
+#EXTINF:-1,SYRI
+http://51.178.185.49:9095/live/syritvott/playlist.m3u8
+#EXTINF:-1,TOP NEWS
+http://185.226.88.6:11026/live/30zaR9GwlgzT/qhZ8AK5OkX/185.ts
+#EXTINF:-1,TVA NEWS
+https://live.tvanews.com/live/tvanews/chunklist_w533103849.m3u8
+#EXTINF:-1,21 MIX
+http://62.210.123.134:98/live/an75d/75d/3.ts
+#EXTINF:-1,ATV
+#EXTINF:-1,ALSAT
+http://62.210.123.134:98/live/an75d/75d/36.ts
+#EXTINF:-1,KLAN KOSOVA
+http://185.226.88.6:11026/live/30zaR9GwlgzT/qhZ8AK5OkX/110.ts
+#EXTINF:-1,KLAN MACEDONIA
+http://51.178.185.49:9095/live/klanmacedoniaott/playlist.m3u8
+#EXTINF:-1,KLAN PLUS
+http://51.178.185.49:9095/live/klanplusott/playlist.m3u8
+#EXTINF:-1,KTV
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1,RTSH 1
+http://185.226.88.6:11026/live/30zaR9GwlgzT/qhZ8AK5OkX/118.ts
+#EXTINF:-1,RTSH 2
+http://185.226.88.6:11026/live/30zaR9GwlgzT/qhZ8AK5OkX/119.ts
+#EXTINF:-1,RTSH 3
+http://185.226.88.6:11026/live/30zaR9GwlgzT/qhZ8AK5OkX/120.ts
+#EXTINF:-1,MCN
+http://157.90.135.164:8081/yWbXvr1S/mcn_netup_720p/chunks.m3u8
+#EXTINF:-1,TEUTA
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DIZI
+#EXTINF:-1,STINËT
+http://5.254.89.106/8751/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,3 PLUS
+http://62.210.123.134:98/live/an75d/75d/27.ts
+#EXTINF:-1,KANAL D DRAMA
+http://185.226.88.6:11026/live/30zaR9GwlgzT/qhZ8AK5OkX/157.ts
+#EXTINF:-1,TRING NOVELAS
+http://185.226.88.6:11026/live/30zaR9GwlgzT/qhZ8AK5OkX/232.ts
+#EXTINF:-1,TURKISH STORIES
+http://185.226.88.6:11026/live/30zaR9GwlgzT/qhZ8AK5OkX/236.ts
+#EXTINF:-1,ALB TV USA
+http://5.254.89.106/8711/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,ALPO
+https://vs.sednastream.com:1936/alportv/alportv/chunklist_w56815498.m3u8
+#EXTINF:-1,BULEVARD TV
+https://bulevardtv.online/bulevardtv/index.m3u8
+#EXTINF:-1,CLUB TV
+http://62.210.123.134:98/live/an75d/75d/168.ts
+#EXTINF:-1,FIRST CHANNEL
+http://62.210.123.134:98/live/an75d/75d/6.ts
+#EXTINF:-1,GLOBE TV
+http://italbania.live/globetv/tibo/index.m3u8
+#EXTINF:-1,POLLOGU
+http://rtmp.tvmak.com:81/tv/uskanatetove.m3u8
+#EXTINF:-1,TROPOJA
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1,TV 7
+https://vs.sednastream.com:1936/tv7/tv7/chunklist_w1557871075.m3u8
+#EXTINF:-1,TV MITROVICA
+http://5.254.89.106/8716/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,ALB SWISS
+https://tv.albswiss.com/hls/albswiss/stream/index.m3u8
+#EXTINF:-1,BBF
+http://5.254.89.106/8795/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,ÇIFTELI
+http://5.254.89.106/8735/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,ELRODI TV
+http://185.226.88.6:11026/live/30zaR9GwlgzT/qhZ8AK5OkX/88.ts
+#EXTINF:-1,FOLK PLUS
+http://62.210.123.134:98/live/an75d/75d/2.ts
+#EXTINF:-1,KLAN MUSIC
+http://51.178.185.49:9095/live/klanmusicott/playlist.m3u8
+#EXTINF:-1,M ÇIFTELI
+http://albamax.xyz/live/4ktezz/x83mPnfDfN/117171.ts
+#EXTINF:-1,M FOLKLOR
+http://albamax.xyz/live/4ktezz/x83mPnfDfN/117169.ts
+#EXTINF:-1,M TALLAVA
+http://albamax.xyz/live/4ktezz/x83mPnfDfN/117170.ts
+#EXTINF:-1,NOLI TV
+http://yesimes.oknirvana.club:8880/DAANM258/VDYSsuChCe/30539
+#EXTINF:-1,RTV RINIA
+https://fl1002.bozztv.com/ssh101/rtvrinia/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TIRANA 1
+http://185.226.88.6:11026/live/30zaR9GwlgzT/qhZ8AK5OkX/85.ts
+#EXTINF:-1,TURBO CHANNEL
+http://62.210.123.134:98/live/an75d/75d/8.ts
+#EXTINF:-1,TV SHARRI
+https://5a1178b42cc03.streamlock.net/TVSHARRI/TVSHARRI/playlist.m3u8
+#EXTINF:-1,ULQINI TV
+https://t2.tvmak.com/tv/ULQINITV.m3u8?P0gN9CKHVM
+#EXTINF:-1,ZICO
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/tracks-v3a1/mono.m3u8
+#EXTINF:-1,WEB STAR POPULLORE
+http://5.254.89.106/8749/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,BALKANIKA
+http://yesimes.oknirvana.club:8880/DAANM258/VDYSsuChCe/30732
+#EXTINF:-1,FEN TV
+http://185.226.88.6:11026/live/30zaR9GwlgzT/qhZ8AK5OkX/12.ts
+#EXTINF:-1,PLANETA
+http://yesimes.oknirvana.club:8880/DAANM258/VDYSsuChCe/30750
+#EXTINF:-1,BANG BANG
+http://5.254.89.106/8737/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,BUBBLE
+http://5.254.89.106/8738/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,20 DIGITALB
+http://yesimes.oknirvana.club:8880/DAANM258/VDYSsuChCe/30592
+#EXTINF:-1,EUROFILM
+http://5.254.89.106/8758/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,FAMILY
+#EXTINF:-1,FILM AKSION
+http://5.254.89.106/8742/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,FILM AUTOR
+http://5.254.89.106/8753/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,FILM DRAME
+http://5.254.89.106/8727/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,FILM GOLD
+http://5.254.89.106/8730/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,FILM HITS
+http://5.254.89.106/8755/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,FILM KOMEDI
+http://5.254.89.106/8752/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,FILM MAX
+http://5.254.89.106/8731/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,FILM THRILLER
+http://5.254.89.106/8757/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,FX MEDIA
+https://protokolldns.xyz/fxmediaweb5548/tracks-v1a1/mono.m3u8
+#EXTINF:-1,T
+http://5.254.89.106/8746/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,TRING SPORT NEWS
+http://5.254.89.106/8785/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,TRING SPORT 1
+http://5.254.89.106/8796/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,TRING SPORT 2
+http://5.254.89.106/8797/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,TRING SPORT 3
+http://5.254.89.106/8798/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,TRING SPORT 4
+#EXTINF:-1,PARTIZANI CHANNEL
+https://vs.sednastream.com:1936/partizanitv/partizanitv/chunklist_w1822966256.m3u8
+#EXTINF:-1,ARENA SPORT 1
+
+#EXTINF:-1,ARENA SPORT 2
+#EXTINF:-1,LIVING
+http://5.254.89.106/8771/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,MUSE
+http://5.254.89.106/8778/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,TRING ORIGINAL
+http://5.254.89.106/8802/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,EXP HISTORI
+http://5.254.89.106/8729/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF;-1,EXP NATYRA
+http://5.254.89.106/8739/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,EXP SHKENCË
+http://5.254.89.106/8726/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,TRING HISTORY
+http://5.254.89.106/8765/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,TRING PLANET
+http://5.254.89.106/8764/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,TRING WORLD
+http://5.254.89.106/8763/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+#EXTINF:-1,RAI 1
+http://cdn.troya.one:80/ch2379/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iO_m2HJFkoFYIA2rgzHfaOm-Azxgo5LGTDi5saozEDs2
+#EXTINF:-1,RA1 2
+http://cdn.troya.one:80/ch2380/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKprzhSjxfjuYFxg-eKdmbJaEaAjkGO6Pvrffdhuw5U7
+#EXTINF:-1,RAI 3
+http://cdn.troya.one:80/ch2381/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iENAfviSWqk7mxmCRtwAqNQB-gt9IEHBQPbH598WoR8i
+#EXTINF:-1,RAI 4
+http://cdn.troya.one:80/ch2382/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFLfO8f3JBUDYlQE-l3AeTBiIAJmn8m7oFjJWVvGF-NT
+#EXTINF:-1,RAI 5
+http://cdn.troya.one:80/ch2383/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFmJHLWmp5l_19Uo9QwcNt4ppZeu_Dbk6j2kqCmqvhBI
+#EXTINF:-1,RAI ITALIA
+http://cdn.troya.one:80/ch2803/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJPoz0d7lHhDdyv2-vcU_AwPcK0EucTfS6P35u6qf-vJ
+#EXTINF:-1,RAI MOVIE
+http://cdn.troya.one:80/ch2385/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOQk-XnLJCXtteHlFUmHrepfG1BGVwWJ03zuJG_S-Xuf
+#EXTINF:-1,RAI PREMIUM
+
+#EXTINF:-1,RETE 4
+http://cdn.troya.one:80/ch2392/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDRGnfw4m10Ad5q4EA_WA2aQHYUl1N0cGeAZwaZSR2-9
+#EXTINF:-1,SKY CINEMA ACTION
+#EXTINF:-1,SKY CINEMA COLLECTION
+#EXTINF:-1,SKY CINEMA COMEDY
+#EXTINF:-1,SKY CINEMA DRAMA
+#EXTINF:-1,SKY CINEMA DUE
+#EXTINF:-1,SKY CINEMA FAMILY
+#EXTINF:-1,SKY CINEMA ROMANCE
+#EXTINF:-1,SKY CINEMA SERIES
+#EXTINF:-1,SKY CINEMA SUSPENSE
+#EXTINF:-1,TEST 1
+http://5.254.89.106/8750/index.m3u8?token=B28JlUdDyDW6CqQgdcogCg
+
+
+
+#EXTINF:-1,ERA TV
+http://185.226.88.6:11026/live/30zaR9GwlgzT/qhZ8AK5OkX/247.ts
+
+#EXTINF:-1,BB VIP KOSOVA 1
+
+http://albamax.xyz/live/4ktezz/x83mPnfDfN/119279.ts
+
+#EXTINF:-1,BB VIP KOSOVA 2
+
+http://albamax.xyz/live/4ktezz/x83mPnfDfN/119280.ts
